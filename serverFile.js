@@ -1,10 +1,10 @@
 var express=require("express")
 var app=express()
 var port=4000
-var DataBaseUrl="mongodb+srv://karangoel1613:3iUcfldEPGzoFOly@hahaamyprojecttclusterr.mfmrfmw.mongodb.net/?retryWrites=true&w=majority"
+var DataBaseUrl="mongodb+srv://karangoel1613:7u16ddcs1bBSMnTC@hahaamyprojecttclusterr.mfmrfmw.mongodb.net/?retryWrites=true&w=majority"
 var MongoClient= require("mongodb").MongoClient;
 var path=require("path");
-
+// 7u16ddcs1bBSMnTC
 
 
 // var _s="build//index.html"
